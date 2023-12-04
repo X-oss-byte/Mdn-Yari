@@ -198,7 +198,7 @@
     "mini-css-extract-plugin": "^2.6.1",
     "node-dev": "^7.4.3",
     "pegjs": "^0.10.0",
-    "postcss": "^8.4.4",
+    "postcss": "^8.4.32",
     "postcss-flexbugs-fixes": "^5.0.2",
     "postcss-loader": "^7.0.0",
     "postcss-normalize": "^10.0.1",
